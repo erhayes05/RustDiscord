@@ -1,4 +1,7 @@
 {
-    "Foo": "HelloWorld"
-}
+    "content": [{
+        "type": "text",
+        "text": "Hello World!",
+        "tts": "true"
+    }]
 }
